@@ -1,4 +1,4 @@
-#include<studio.h>
+#include<stdio.h>
 void main()
 {
 int n,i,even=0,odd=0;
